@@ -1,0 +1,6 @@
+
+Need to download below jar files from Google:
+
+Selenium standalone server and sikulix jars
+SELENIUM STANDALONE SERVER and SIKULIX jars
+
